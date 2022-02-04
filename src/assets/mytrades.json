@@ -1,0 +1,8 @@
+{
+  "trades": [
+    {
+      "name": "ExampleTrade",
+      "desc": "This is an example trade"
+    }
+  ]
+}
